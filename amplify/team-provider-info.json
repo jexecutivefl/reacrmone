@@ -1,0 +1,20 @@
+{
+    "reacrmone": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-reacrmone-reacrmone-125546-authRole",
+            "UnauthRoleArn": "arn:aws:iam::908072118105:role/amplify-reacrmone-reacrmone-125546-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::908072118105:role/amplify-reacrmone-reacrmone-125546-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-reacrmone-reacrmone-125546-deployment",
+            "UnauthRoleName": "amplify-reacrmone-reacrmone-125546-unauthRole",
+            "StackName": "amplify-reacrmone-reacrmone-125546",
+            "StackId": "arn:aws:cloudformation:us-east-1:908072118105:stack/amplify-reacrmone-reacrmone-125546/9fdef160-7da7-11ea-b1ef-0e353767367b",
+            "AmplifyAppId": "d3mkufkxxxj2ms"
+        },
+        "categories": {
+            "auth": {
+                "reacrmone66b21b43": {}
+            }
+        }
+    }
+}
